@@ -1,7 +1,7 @@
 ## Olá, eu sou a Eduarda Freitas 👋🌟
 
 - 🔭 Estou cursando Engenharia de Software
-- 🌱 Atualamente aprendendo JavaScript
+- 🌱 Atualmente aprendendo JavaScript
 - 📫 Contate-me no email: dwdartattoo@gmail.com 
 
  </a> 
