@@ -2,7 +2,7 @@
 
 - 🔭 Estou cursando Engenharia de Software
 - 🌱 Atualmente aprendendo JavaScript
-- 📫 Contate-me no email: dwdartattoo@gmail.com 
+- 📫 Contate-me no email: Eduardarane.freitas@gmail.com 
 
  </a> 
     <a href="https://github.com/dwdafreitas?tab=repositories&sort=stargazers">
